@@ -1,0 +1,3 @@
+# Evaluation
+
+The reproducible script parses the checked-in synthetic authentication log, runs deterministic detection/correlation and report evidence validation, then calculates rule-level precision, recall, and F1 using manually labelled expected rules. Precision denominator is TP+FP; recall denominator is TP+FN. Incident event coverage is expected labelled events present in candidate incidents divided by expected labelled event count. Report reference validity is passing generated reports divided by all generated reports. The fixture is intentionally small and cannot estimate real SOC efficacy.

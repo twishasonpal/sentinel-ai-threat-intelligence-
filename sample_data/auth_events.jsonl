@@ -1,0 +1,8 @@
+{"event_id":"evt-001","timestamp":"2025-04-14T10:00:00Z","event_type":"authentication","username":"analyst","source_ip":"198.51.100.24","host":"idp-01","outcome":"failure","message":"Invalid password"}
+{"event_id":"evt-002","timestamp":"2025-04-14T10:01:00Z","event_type":"authentication","username":"analyst","source_ip":"198.51.100.24","host":"idp-01","outcome":"failure","message":"Invalid password"}
+{"event_id":"evt-003","timestamp":"2025-04-14T10:02:00Z","event_type":"authentication","username":"analyst","source_ip":"198.51.100.24","host":"idp-01","outcome":"failure","message":"Invalid password"}
+{"event_id":"evt-004","timestamp":"2025-04-14T10:03:00Z","event_type":"authentication","username":"analyst","source_ip":"198.51.100.24","host":"idp-01","outcome":"failure","message":"Invalid password"}
+{"event_id":"evt-005","timestamp":"2025-04-14T10:04:00Z","event_type":"authentication","username":"analyst","source_ip":"198.51.100.24","host":"idp-01","outcome":"failure","message":"Invalid password"}
+{"event_id":"evt-006","timestamp":"2025-04-14T10:05:00Z","event_type":"authentication","username":"analyst","source_ip":"198.51.100.24","host":"idp-01","outcome":"success","message":"MFA accepted"}
+{"event_id":"evt-007","timestamp":"2025-04-14T10:06:00Z","event_type":"authentication","username":"backup-admin","source_ip":"203.0.113.19","host":"idp-01","outcome":"success","message":"Scheduled backup check"}
+{"event_id":"evt-008","timestamp":"2025-04-14T10:07:00Z","event_type":"authentication","username":"employee","source_ip":"203.0.113.22","host":"idp-01","outcome":"success","message":"Routine login"}
